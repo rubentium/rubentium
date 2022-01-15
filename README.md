@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruben
 - 👀 I’m interested in everything math, cs related (but mostly math)
-- 🌱 I’m currently learning University level math and some computer science of top of it
+- 🌱 I’m currently learning university level math and some computer science of top of it
 - 📫 How to reach me through https://www.linkedin.com/in/nruben/
 
 <!---
