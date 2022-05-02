@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Ruben
+- 👋 Hi, I’m Dev
 - 👀 I’m interested in everything math, cs related (but mostly math)
 - 🌱 I’m currently learning university level math and some computer science on top of it
-- 📫 How to reach me through https://www.linkedin.com/in/nruben/
 
 <!---
 rubentium/rubentium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
