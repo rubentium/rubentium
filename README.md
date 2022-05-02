@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dev
-- 👀 I’m interested in everything math, cs related (but mostly math)
+- 👀 I’m interested in everything math, physics, and cs related (but mostly math)
 - 🌱 I’m currently learning university level math and some computer science on top of it
 
 <!---
